@@ -1,4 +1,0 @@
-projects
-========
-
-Arduino Projects
