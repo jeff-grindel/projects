@@ -2,7 +2,7 @@
 Sous Vide Cooker implementation using Arduino Microprocessor by Jeff Grindel
 
 Libraries provided by the following:
-DallaTemperature.h
+DallasTemperature.h
 http://milesburton.com/Dallas_Temperature_Control_Library
 
 OneWire.h
